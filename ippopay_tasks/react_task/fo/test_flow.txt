@@ -1,0 +1,8 @@
+For FO:
+
+1. Open Terminal 
+2. RUN source exportdev.sh file
+3. RUN npm i and npm run dev 
+4. At the same time open a new Terminal for connect backend path and run the source exportdev.sh, npm i and npm start
+5. open the browser and run the port show the signup page, if new user using signup or existing user use login.
+6. After Login go to dashboard page and show the user details.
